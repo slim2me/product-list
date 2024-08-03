@@ -1,8 +1,21 @@
-# React + Vite
+How to Add Items to a List in React
+This project demonstrates how to dynamically add items to a list in a React application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
+-Dynamically add items to a list
+-Use a modal for inputting new item details
+-Manage state to update the list
 
-Currently, two official plugins are available:
+Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the Repository
+git clone https://github.com/your-username/react-add-items-list.git
+
+cd product-list
+
+Install Dependencies
+npm install
+
+Run the App
+npm start
+
